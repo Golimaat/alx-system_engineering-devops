@@ -1,1 +1,1 @@
-Readme file for repository
+first repository for script making

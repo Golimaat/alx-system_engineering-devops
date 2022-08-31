@@ -1,1 +1,1 @@
-script project
+directory for all scripts
