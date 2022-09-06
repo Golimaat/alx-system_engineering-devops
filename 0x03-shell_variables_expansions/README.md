@@ -1,0 +1,1 @@
+Shell projects for init,variables and  expansions
